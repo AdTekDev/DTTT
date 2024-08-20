@@ -18,8 +18,9 @@
 5. Các công việc (khung) cơ bản trong mô hình (2đ)
 6. Các thang đo (3-5 thang đo)
 
-Trình bày tốt: 1đ
-Nội dung đầy đủ với các minh họa: 1đ
+Trình bày tốt: 1đ  
+Nội dung đầy đủ với các minh họa: 1đ  
+
 
 ## Tài liệu
 - https://drive.google.com/drive/folders/1NkgaSthigpgk9yaiDmcLJ6zVwsekqBOM?usp=sharing  
